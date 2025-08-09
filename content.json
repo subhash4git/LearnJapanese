@@ -1,0 +1,22 @@
+{
+  "items": [
+    {
+      "title": "Lesson 1 - Basic Greeting",
+      "category": "daily", // "business" | "daily"
+      "audioUrl": "https://raw.githubusercontent.com/USERNAME/REPO/branch/path/audio/lesson1.mp3",
+      "segments": [
+        {
+          "kana": "こんにちは、みなさん。",
+          "romaji": "Konnichi wa, minasan.",
+          "english": "Hello everyone.",
+          "start": 0.0,
+          "end": 2.5,
+          "words": [
+            { "start": 0.0, "end": 0.8, "kana": "こんにちは", "romaji": "konnichi wa", "english": "hello" },
+            { "start": 0.9, "end": 2.5, "kana": "みなさん", "romaji": "minasan", "english": "everyone" }
+          ]
+        }
+      ]
+    }
+  ]
+}
